@@ -43,7 +43,7 @@ body, html {
 }
 
 
-.tittle {
+.tittle-site {
     color: #FF8F00;
 }
 
@@ -99,6 +99,9 @@ body, html {
 }
 
 .values {
+    text-align: left;
+}
+.values li {
     text-align: left;
 }
 
