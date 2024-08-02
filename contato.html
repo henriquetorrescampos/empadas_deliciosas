@@ -24,7 +24,7 @@
   </head>
   <body>
     <header class="home">
-      <h1 class="tittle">Empadas Deliciosas</h1>
+      <h1 class="tittle-site py-4">Empadas Deliciosas</h1>
     </header>
     <nav class="nav-bar">
       <ul class="nav-list">
@@ -34,6 +34,54 @@
         <li><a href="./contato.html">Contato</a></li>
       </ul>
     </nav>
+    <div class="content">
+      <h2 class="pb-2">Fale Conosco</h2>
+      <form>
+        <div class="mb-3 row">
+          <label for="name" class="col-sm-2 col-form-label">Nome:</label>
+          <div class="col-sm-9">
+            <input
+              type="text"
+              class="form-control c-h place-h"
+              placeholder="Seu nome"
+            />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label for="email" class="col-sm-2 col-form-label">E-mail:</label>
+          <div class="col-sm-9">
+            <input
+              type="email"
+              class="form-control c-h place-h"
+              placeholder="Seu e-mail"
+            />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label for="subject" class="col-sm-2 col-form-label">Assunto:</label>
+          <div class="col-sm-9">
+            <input
+              type="text"
+              class="form-control c-h place-h"
+              placeholder="Assunto"
+            />
+          </div>
+        </div>
+        <div class="mb-3 row">
+          <label for="name" class="col-sm-2 col-form-label">Texto:</label>
+          <div class="col-sm-9">
+            <textarea
+              class="form-control"
+              id="exampleFormControlTextarea1"
+              rows="10"
+            ></textarea>
+          </div>
+        </div>
+      </form>
+
+      <button type="submit" class="btn btn-primary">Enviar</button>
+    </div>
+
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"

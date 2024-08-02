@@ -62,6 +62,10 @@ body, html {
     text-align: left;
 }
 
+h2 {
+    color: #FF8F00;
+}
+
 .content p {
     text-align: left;
     font-size: 18px;
@@ -110,4 +114,16 @@ body, html {
     text-align: center;
     align-items: center;
     flex-direction: column;
+}
+
+.th-row {
+    color: #FFB74D;
+}
+
+.c-h {
+    height: 45px;
+}
+
+.place-h::placeholder {
+    color: rgb(0, 0, 0, 0.4);
 }
