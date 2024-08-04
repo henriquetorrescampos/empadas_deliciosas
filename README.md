@@ -1,15 +1,18 @@
-Projeto de Site
+# Projeto de Site
+
 Este projeto é parte do curso DevInhouse do Senai. O objetivo é desenvolver um site simples utilizando JavaScript, HTML e CSS puro.
 
-Descrição
+## Descrição
+
 Este site tem como finalidade demonstrar habilidades básicas em desenvolvimento web. Ele inclui:
 
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
+### Tecnologias Utilizadas
 
-Como Executar o Projeto
+- HTML5
+- CSS3
+- JavaScript
+
+### Instalação
 
 ```git clone https://github.com/henriquetorrescampos/empadas_deliciosas.git
 cd empadas_deliciosas
