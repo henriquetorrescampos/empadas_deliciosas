@@ -4,7 +4,7 @@ Este projeto é parte do curso DevInhouse do Senai. O objetivo é desenvolver um
 
 ## Descrição
 
-Este site tem como finalidade demonstrar habilidades básicas em desenvolvimento web. Ele inclui:
+Este site tem como finalidade demonstrar habilidades básicas em desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
@@ -14,7 +14,8 @@ Este site tem como finalidade demonstrar habilidades básicas em desenvolvimento
 
 ## Instalação
 
-```git clone https://github.com/henriquetorrescampos/empadas_deliciosas.git
+```
+git clone https://github.com/henriquetorrescampos/empadas_deliciosas.git
 cd empadas_deliciosas
 code .
 ```
